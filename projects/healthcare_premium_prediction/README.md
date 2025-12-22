@@ -92,10 +92,15 @@ Achieved reliable predictive performance on test data
 
 📂 Repository Structure
 ├── datasets/
+
 │ └── healthcare_premium_data.xlsx
+
 ├── notebooks/
+
 │ └── healthcare_premium_prediction.ipynb
+
 ├── src/
+
 ├── README.md
 
 🚀 How to Run the Project
