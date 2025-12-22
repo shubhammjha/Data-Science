@@ -94,7 +94,7 @@ Achieved reliable predictive performance on test data
 
 ├── datasets/
 
-│ └── healthcare_premium_data.xlsx
+│ └── premiums.xlsx
 
 ├── notebooks/
 
