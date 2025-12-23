@@ -43,8 +43,8 @@ Web App: Streamlit interface for easy movie selection and viewing recommendation
 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/shubhammjha/Data-Science/projects/movie-recommender-system.git
-   cd movie-recommender-system
+   git clone https://github.com/shubhammjha/Data-Science.git
+   cd projects/movie-recommender-system
 2. Create a virtual environment (optional but recommended):
    python -m venv venv
    source venv/bin/activate   # Linux/Mac
