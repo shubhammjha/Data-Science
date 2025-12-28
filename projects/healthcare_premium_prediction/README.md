@@ -1,4 +1,4 @@
-#🏥 Insurance Premium Prediction — Production‑Grade Hybrid Regression System
+## 🏥 Insurance Premium Prediction — Production‑Grade Hybrid Regression System
 
 > **A data‑science case study focused on accuracy, robustness, and error reduction in real‑world pricing models.**
 
